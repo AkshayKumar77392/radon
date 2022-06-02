@@ -1,4 +1,4 @@
-const endpoint = "https://www.functionup.org"
+ const endpoint = "https://www.functionup.org"
 const batch = "radon"
 
 const log = function() {
